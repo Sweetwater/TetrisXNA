@@ -126,7 +126,7 @@ namespace TetrisXNA
             }
 
             // カメラ位置の設定
-            cameraPosition = new Vector3(0, 10, -10);
+            cameraPosition = new Vector3(0, 0, 3);
             UpdateViewMatrix();
 
             // コントロールの作成
