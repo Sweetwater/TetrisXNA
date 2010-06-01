@@ -311,7 +311,7 @@ Mesh {
    0.000000;0.000000;0.000000;;
    0.000000;0.000000;0.000000;;
    TextureFilename {
-    "C:\\Documents and Settings\\cattiue\\デスクトップ\\tetrisData\\background.PNG";
+    "background.bmp";
    }
   }
  }
